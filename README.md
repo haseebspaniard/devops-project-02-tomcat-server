@@ -1,4 +1,4 @@
-# 🚀 DevOps Project 01 — Ubuntu Application Server with Apache Tomcat
+# 🚀 DevOps Project 02 — Ubuntu Application Server with Apache Tomcat
 
 ![Tomcat Running](screenshots/08-tomcat-browser.png)
 
