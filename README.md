@@ -90,21 +90,6 @@ Confirmed the Tomcat welcome page loads at `http://localhost:8080`. Confirmed `s
 
 ---
 
-## 📸 Screenshots
-
-| Step | Screenshot |
-|------|-----------|
-| Server Info | ![](screenshots/01-server-info.png) |
-| Java Installed | ![](screenshots/02-java-installed.png) |
-| Tomcat Downloaded | ![](screenshots/03-tomcat-downloaded.png) |
-| Permissions Set | ![](screenshots/04-permissions-set.png) |
-| Service File | ![](screenshots/05-service-file.png) |
-| Tomcat Running | ![](screenshots/06-tomcat-running.png) |
-| Firewall Configured | ![](screenshots/07-firewall-configured.png) |
-| Browser Verified | ![](screenshots/08-tomcat-browser.png) |
-| Persistence Verified | ![](screenshots/09-enabled-verified.png) |
-
----
 
 ## 🔗 Connect With Me
 
