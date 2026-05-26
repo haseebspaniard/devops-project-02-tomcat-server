@@ -1,7 +1,6 @@
 # 🚀 DevOps Project 02 — Ubuntu Application Server with Apache Tomcat
 
-![Tomcat Running](<img width="960" height="639" alt="08-tomcat-browser" src="https://github.com/user-attachments/assets/1a3b57d6-542e-4c65-bafc-686e5caa0b2d" />
-)
+![Tomcat Running]<img width="960" height="639" alt="08-tomcat-browser" src="https://github.com/user-attachments/assets/1a3b57d6-542e-4c65-bafc-686e5caa0b2d" />
 
 ## 📋 Project Overview
 
