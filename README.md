@@ -30,7 +30,7 @@
 ---
 
 ## 📁 Project Structure
-
+```
 devops-project-01-tomcat-server/
 ├── README.md
 ├── tomcat.service          # systemd service unit file
@@ -46,7 +46,7 @@ devops-project-01-tomcat-server/
 ├── 08-tomcat-browser.png
 └── 09-enabled-verified.png
 ---
-
+```
 ## 📝 Step-by-Step What I Did
 
 ### Step 1 — Verified Server Information
